@@ -1,0 +1,8 @@
+export const ACTION = "ACTION";
+
+export const FETCH_ANIME_FAILURE = " FETCH_ANIME_FAILURE";
+export const FETCH_ANIME_SUCCESS = " FETCH_ANIME_SUCCESS";
+export const FETCH_ANIME_REQUEST = " FETCH_ANIME_REQUEST";
+export const SET_COLOR = "SET_COLOR";
+// export const SET_POKELIST = "SET_POKELIST";
+// export const GET_POKELIST = "GET_POKELIST";
