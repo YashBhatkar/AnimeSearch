@@ -1,4 +1,4 @@
-### Overview
+# Overview
 Create an anime search engine using the AniList API
 # Installation
 ### Step 1
